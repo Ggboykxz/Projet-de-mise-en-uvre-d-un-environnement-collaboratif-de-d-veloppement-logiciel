@@ -156,4 +156,5 @@ Send any other comments, patches, flowers and suggestions to the vim-dev mailing
 
 This is `README.md` for version 9.1 of Vim: Vi IMproved 
    Bonjour ,moi c'est emmanuel...
-  Ceci est ma prémiere modification sur vim.
+  Ceci est ma prémiere modification sur vim
+   vim j'aime bien cet éditeur.
