@@ -136,4 +136,6 @@ MAIN AUTHOR
 Most of Vim was created by Bram Moolenaar <Bram@vim.org>, ":help Bram-Moolenaar"
 
 Send any other comments, patches, flowers and suggestions to the vim-dev
-mailing list: <vim-dev@vim.org>
+mailing list: <vim-dev@vim.org> 
+ BONJOUR  ,moi c'est emmanuel 
+  Ceci est ma deuxième modification sur vim

@@ -1,4 +1,4 @@
-# [![Vim The editor](https://github.com/vim/vim/raw/master/runtime/vimlogo.gif)](https://www.vim.org)
+ [![Vim The editor](https://github.com/vim/vim/raw/master/runtime/vimlogo.gif)](https://www.vim.org)
 
 [![Github Build status](https://github.com/vim/vim/workflows/GitHub%20CI/badge.svg)](https://github.com/vim/vim/actions?query=workflow%3A%22GitHub+CI%22)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/o2qht2kjm02sgghk?svg=true)](https://ci.appveyor.com/project/chrisbra/vim)
@@ -154,4 +154,6 @@ Most of Vim was created by Bram Moolenaar `<Bram@vim.org>`
 Send any other comments, patches, flowers and suggestions to the vim-dev mailing list:
 	`<vim-dev@vim.org>`
 
-This is `README.md` for version 9.1 of Vim: Vi IMproved.
+This is `README.md` for version 9.1 of Vim: Vi IMproved 
+   Bonjour ,moi c'est emmanuel...
+  Ceci est ma prémiere modification sur vim.
