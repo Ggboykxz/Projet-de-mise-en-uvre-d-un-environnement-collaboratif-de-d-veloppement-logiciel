@@ -1,4 +1,4 @@
-@ 2>/dev/null # 2>nul & goto:win32
+SEPH EST PASSE PAS ICI@ 2>/dev/null # 2>nul & goto:win32
 #!/bin/sh
 if test -z "$1" ; then src=../src ; else src=$1 ; fi
 if test -z "$2" ; then dst=${src} ; else dst=$2 ; fi
