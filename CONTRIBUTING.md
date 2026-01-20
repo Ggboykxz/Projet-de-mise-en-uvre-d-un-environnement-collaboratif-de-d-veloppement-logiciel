@@ -1,4 +1,5 @@
-fortesia etait ici# Contributing to Vim
+fortesia etait ici!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Contributing to Vim
 
 Patches are welcome in whatever form.
 Discussions about patches happen on the [vim-dev][0] mailing list.
