@@ -1,4 +1,4 @@
-/* vi:set ts=8 sts=4 sw=4 noet:
+SEPH EST PASSE PAR ICSEPH EST PASSE PAR ICI/* vi:set ts=8 sts=4 sw=4 noet:
  *
  * VIM - Vi IMproved	by Bram Moolenaar
  *
